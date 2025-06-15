@@ -1,7 +1,7 @@
 import axios from "axios";
 
 export const apiConfig = axios.create({
-  baseURL: "https://backend-api-latest-i5gn.onrender.com/api",
+  baseURL: "https://backend-api-latest-df1k.onrender.com/api",
   withCredentials: true, 
 });
 
