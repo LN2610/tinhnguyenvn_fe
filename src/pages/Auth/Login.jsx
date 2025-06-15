@@ -52,7 +52,7 @@ const Login = () => {
         
         {/* Nút Đăng nhập với quyền Admin - Đặt ở đây để định vị tuyệt đối */}
         <a
-          href="https://localhost:8080/page/auth/login" 
+          href="https://springboot-demo-latest-9inn.onrender.com" 
           target="_blank"
           rel="noopener noreferrer"
           className="absolute top-4 right-4 bg-purple-600 text-white text-sm px-4 py-2 rounded-lg hover:bg-purple-700 transition whitespace-nowrap" // <--- CLASSES MỚI
